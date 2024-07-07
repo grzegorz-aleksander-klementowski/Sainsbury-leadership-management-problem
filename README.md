@@ -33,5 +33,4 @@ The project focuses on several key areas of Sainsbury's business, including:
 To explore the analysis, simply clone the repository and upload the `Sainsbury_problem.csv` file to miro.com. The data is structured to provide comprehensive insights into Sainsbury's business strategies and performance.
 
 ```bash
-git clone https://github.com/yourusername/sainsburys-project-analysis.git](https://github.com/grzegorz-aleksander-klementowski/Sainsbury-leadership-management-problem/
-
+git clone https://github.com/grzegorz-aleksander-klementowski/Sainsbury-leadership-management-problem/
