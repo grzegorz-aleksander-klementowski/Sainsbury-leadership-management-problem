@@ -21,7 +21,8 @@ The project focuses on several key areas of Sainsbury's business, including:
 4. **Performance Metrics**: Review of Sainsbury's sales performance, market position, and strategic highlights.
 5. **Environmental and Corporate Responsibility**: Insights into Sainsbury's commitments, such as achieving Net Zero by 2040.
 
-![alt text]([ścieżka/do/obrazu.jpg](https://raw.githubusercontent.com/grzegorz-aleksander-klementowski/corporate-strategy-analysis-visualisation-of-sainsbury-in-miro/c276f10cb6599800cfc98cf0afeaa3bdc1739ca3/Przechwycenie%20obrazu%20ekranu_2024-08-06_14-57-28.png))
+![alt text](https://raw.githubusercontent.com/grzegorz-aleksander-klementowski/corporate-strategy-analysis-visualisation-of-sainsbury-in-miro/c276f10cb6599800cfc98cf0afeaa3bdc1739ca3/Przechwycenie%20obrazu%20ekranu_2024-08-06_14-57-28.png)
+
 
 ## Key Sections
 
