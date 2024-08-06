@@ -34,3 +34,6 @@ To explore the analysis, simply clone the repository and upload the `Sainsbury_p
 
 ```bash
 git clone https://github.com/grzegorz-aleksander-klementowski/Sainsbury-leadership-management-problem/
+```
+
+Then, upload the files on miro.com. You can do it on your own account.
